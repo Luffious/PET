@@ -1,0 +1,2 @@
+# PET
+Django pet project
